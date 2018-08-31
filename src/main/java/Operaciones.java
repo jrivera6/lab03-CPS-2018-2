@@ -1,4 +1,4 @@
-public clas Prueba{
+public class Operaciones{
 
 	
 }
